@@ -1,0 +1,20 @@
+# the setdefault() method offers a way to do this in one line of code.
+
+# the first arg passed to the method is the key to check for, and the second arg is the value to set at that key if the key does not exist.
+
+# if the key does exist, the setdefault() method returns the key's value.
+
+spam = {'name': 'Pooka', 'age': 5} 
+print(spam.setdefault('color', 'black'))
+print(spam)
+print(spam.setdefault('color', 'white'))
+print(spam)
+
+# the first time setdefault() is called, the dictionary in spam changes to {'color': 'black', 'age': 5, 'name': 'Pooka'}.
+# the method returns the value 'black' because this is now the value set for the key 'color'.
+# when spam.setdefault('color', 'white') is called next, the value for that key is not changed to 'white', because spam already has a key named 'color'.
+# the detdefault() method is nice shortcut to ensure that a key exists.    
+
+
+
+

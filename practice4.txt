@@ -1,0 +1,54 @@
+1:
+It's an empty array
+
+2:
+spam = [2, 4, 6, 8, 10]
+spam[2] = 'hello'
+
+3:'d'
+
+4:
+d
+
+5:
+a, b
+
+6:
+1
+
+7:
+3.14, cat, 11, cat, True, 99
+
+8:
+3.14, 11, True, 99
+
+9:
++ and copy()
+
+10:
+append() -- it will add element in the last index of an array
+
+insert() -- you can insert an element in any index of an array
+
+11:
+remove()
+delete()
+
+12:
+spam = ['adrian', 'sarah']
+spam = 'fatih'
+
+13:
+lists are mutable, while tuples are immutable
+
+14:
+spam = (42)
+
+15:
+
+
+16:
+empty array
+
+17:
+copy.copy() copies the array, while copy.deepcopy() copies the array within an array

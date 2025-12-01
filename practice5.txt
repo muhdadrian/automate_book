@@ -1,0 +1,25 @@
+1:
+spam = {}
+
+2: 
+spam = {'foo': 42}
+
+3:
+dictionary contains a key-value pair, while list only contains value.
+
+4:
+it will return error
+
+5:
+'cat' in spam is a key, while 'cat' in spam.keys() is a key in dictionary used in loop
+
+6:
+'cat' in spam is a key, while 'cat' in spam.values() is a value in a dictionary
+
+7:
+spam['color'].get() = 'black'
+
+8:
+module = import pprint
+function = pprint.pprint(someDictionaryValue)
+

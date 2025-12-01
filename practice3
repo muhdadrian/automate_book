@@ -1,0 +1,49 @@
+1:
+to practice DRY (do not repeat yourself) in coding.
+
+2:
+when the function is called.
+
+3:
+when you define a function for example:
+def functionName():
+   """Your function details"""
+
+4:
+function is a defined function, which returns value, while function call is to call and execute
+the defined function.
+
+5:
+there are two global scopes in Python (within defined function that written global in front of the
+var) and outside function. While, local scopes also two: one inside function (without global name
+in front of the var), the other one is declared var in normal expression (without function).
+
+6:
+the vars value in local scope will be returned
+
+7:
+return value is a value returned by a function when the defined function is called. Yes, return
+value can be part of an expression.
+
+8:
+the return value is the value in a function call
+
+9:
+by writing global in front of the var
+
+10:
+It's a special data type known as None
+
+11:
+it will import the module of the areallyourpetsnamederic
+
+12:
+import spam from bacon
+
+13:
+by applying try and except
+
+14:
+try clause will try all the code and if there's any error in line of code, it will go to the
+except clause.
+

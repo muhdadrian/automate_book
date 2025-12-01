@@ -1,0 +1,82 @@
+1:
+True and False. First letter is in uppercase
+
+2:
+> , <, =
+
+3:
+True and True = True
+False and True = False
+False and False = False
+
+4:
+False
+True - false
+False - true
+True - false
+False
+False - true
+
+5:
+>
+>=
+<
+<=
+!=
+==
+
+6:
+equal means the value is similar | assignment means you assign a value to the var
+
+7:
+condition is a code of block that to be fulfilled to execute the if statement, lest the else will
+be executed in if else statement or in flow of control.
+
+8:
+1st is var declaration
+2nd is the if statement
+3rd is to print the result
+
+9:
+spam = 0
+if spam == 1:
+    print('Hello')
+elif spam == 2:
+    print('Howdy')
+else:
+    print('Greetings!')
+
+10:
+Control + C
+
+11:
+break means to get out of the loop based on the condition
+continue means to continue the loop based on the condition
+
+12:
+range(10) - number from 0 to 9 (exclude number 10)
+range (0, 10) - number from 0 to 9 (exclude number 10)
+range(0, 10, 1) - number from 0 to 9 with increment of 1
+
+13:
+for loop:
+for i in range(1, 11):
+    print(i)
+
+while loop:
+import sys
+number = 1
+while True:
+    print(number)
+    number += 1
+    if number == 11:
+        sys.exit()
+
+Or,
+i = 1
+while i <= 10:
+    print(i)
+    i = i + 1
+
+14:
+spam.bacon()

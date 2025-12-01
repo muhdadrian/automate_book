@@ -1,0 +1,37 @@
+1:
+'hello' | value
+-88.8 | value
+- | operator
+/ | operator
++ | operator
+5 | value
+
+2:
+spam | var
+'spam' | string
+
+3:
+int
+float
+str
+
+4:
+expression can contain operands and operators to produce value
+
+5:
+expression to express values | statement means to assign value to var
+
+6:
+21
+
+7:
+'spamspamspam'
+
+8:
+eggs is letter while 100 is number
+
+9:
+int() | float() | str()
+
+10:
+'I have eaten ' + str(99) + ' burritos'

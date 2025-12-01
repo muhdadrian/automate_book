@@ -1,0 +1,2 @@
+- The Boolean Operators have an order of operations: after any math and comparison operators
+evaluate, Python evaluates the 'not' operators first, then the 'and', and the 'or' operators
